@@ -1,0 +1,54 @@
+/* GENERAL STYLING */
+body{
+    text-align: center;
+    background-image: url("wthbg.png");
+}
+
+.heading{
+    font-size: 75px;
+}
+
+/* BUTTON STYLES */
+.btnc,.btnf,.btnk{
+    margin:10px 0px 10px 0px;
+    background-color: rgb(23, 23, 23);
+    color: white;
+}
+
+.btnc:hover{
+    background-color: black;
+    color:#fa6d6d;
+}
+
+.btnf:hover{
+    background-color: black;
+    color:#e9b824;
+}
+
+.btnk:hover{
+    background-color: black;
+    color: #78d6e6;
+}
+
+/* CARD STYLES */
+.card{
+    margin: 20px;
+    text-align: center;
+}
+
+.celsius{
+        background-image: linear-gradient(to bottom right, #fa6d6d, #b90437);    
+}
+
+.fahrenheit{
+    background-image: linear-gradient(to bottom right,#e9b824, #c77a1b);
+}
+
+.kelvin{
+    background-image: linear-gradient(to bottom right,#78d6e6, #419197);
+}
+
+
+
+
+
